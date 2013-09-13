@@ -1,0 +1,2 @@
+AUTODEPLOY git@github.com:glamp/node-sci.git
+PUBLISH 3000
